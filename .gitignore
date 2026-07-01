@@ -1,0 +1,61 @@
+# Python
+
+__pycache__/
+
+*.py[cod]
+
+.venv/
+
+venv/
+
+.env
+
+
+
+# OS / editor
+
+.DS_Store
+
+.vscode/
+
+.idea/
+
+
+
+# Data
+
+Datasets/
+
+*.nii
+
+*.nii.gz
+
+*.h5
+
+*.hdf5
+
+
+
+# Model checkpoints and generated outputs
+
+Trained_models/**/*.pth
+
+Trained_models/**/*.pt
+
+Trained_models/**/*.ckpt
+
+eval/
+
+*.png
+
+*.csv
+
+
+
+# Keep placeholder directories if needed
+
+!Datasets/.gitkeep
+
+!Trained_models/.gitkeep
+
+!eval/.gitkeep
