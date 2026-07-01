@@ -182,7 +182,3 @@ If you use this code, please cite:
   url = {https://www.medrxiv.org/content/10.64898/2026.04.01.26349523v1}
 }
 ```
-
-## License
-
-Add a license before making the repository broadly reusable. If no license is provided, reuse is legally restricted by default.
